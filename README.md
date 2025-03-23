@@ -55,6 +55,10 @@ This will start the hand gesture tracking process, and the detected hand positio
 - 🖥️ Human-computer interaction experiments
 - 🎓 Educational projects on computer vision and IoT
 
+- ## 📦 **Sample Video**
+
+https://github.com/user-attachments/assets/d138546e-ae52-47f6-997b-9c0e8bfe43f5
+
 ## 🤝 **Contributing**
 
 Feel free to submit issues or pull requests to improve the project. Contributions are always welcome! 🎉
